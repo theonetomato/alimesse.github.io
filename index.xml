@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/broschuere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/broschuere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/geschichte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/geschichte/</guid>
+      <description>Geschichte der ALi Das ALi-Projekt ist erstmalig 1998 mit dem ALi-Lehrstellenatlas an die Öffentlichkeit getreten. Es hatten sich die damalige Bezirksbürgermeisterin aus Linden-Limmer, Frau Anne Barkhoff und Vertreter\*innen von Schulen, Berufsschulen und Kirchengemeinden des Stadtbezirks zusammengetan, um den Jugendlichen den Übergang von der Schule in den Beruf zu erleichtern. Federführend wurde die Initiative durch das Sozial-Center Linden, einer Abteilung des Diakonischen Werks, organisiert. Der ALi-Lehrstellenatlas wurde seitdem jedes Jahr aktualisiert und herausgegeben.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/messe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/messe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
